@@ -11,4 +11,6 @@
 - *Programming:* Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - *Analytics:* Excel, SQL  
 - *Visualization:* Power BI, Tableau  
-  
+
+  ## 📫 Connect With Me  
+- LinkedIn: (www.linkedin.com/in/sejal-salvi-572849239)
