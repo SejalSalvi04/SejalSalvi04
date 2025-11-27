@@ -1,4 +1,4 @@
-#- 👋 Hi, I'm Sejal  
+- 👋 Hi, I'm Sejal  
 - 📊 Aspiring Data Analyst  
 - 🛠 Skilled in Python, SQL, Power BI, Tableau & Excel  
 - 🔍 Exploring Data Analysis, Visualization & Machine Learning  
